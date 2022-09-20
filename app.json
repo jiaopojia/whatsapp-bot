@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/jiaopojia/whatsapp-bot",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -39,7 +39,7 @@
             "value":""
         },
         "STICKER_DATA": {
-            "description": "Name of stickers created using bot. Can also split using ;",
+            "description": "jia. Can also split using ;",
             "required": true,
             "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
         },
@@ -49,12 +49,12 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "jia",
             "required": true,
             "value":"Raganork"
         },
         "AUDIO_DATA": {
-            "description": "Name of audio (take) name;name;image(url)",
+            "description": "jia",
             "required": true,
             "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"989393921419"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
@@ -74,7 +74,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~fbdcfd7cab68bf18345e5a0587eb1b52:4b4947422f536e4c4877673d",
             "required": true
              
         }
